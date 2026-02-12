@@ -65,7 +65,7 @@
 		</Metadata>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="d3c72dc963212549a3a4a5e7fbc1476200000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="add587d568256a43944214cd70277ee800000000"/>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="26f376a5-a52f-4a66-b846-216e8fcd0ef5" configVersion="75abfc57638bce45ad031172b94432f600000000">
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="26f376a5-a52f-4a66-b846-216e8fcd0ef5" configVersion="2505c20d93172e42ae6fecaf1aa7377d00000000">
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.ДатаУстановки" id="1602567e-361a-4bf4-a6ec-1a9a4c5771ef"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.БазоваяЕдиницаИзмерения" id="1c494ff2-8ed2-4463-89f7-fa3987c9dbe2"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.Коэффициент" id="b58196c5-4d74-42f1-ae77-80c684f07dec"/>
