@@ -65,7 +65,7 @@
 		</Metadata>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="d3c72dc963212549a3a4a5e7fbc1476200000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="add587d568256a43944214cd70277ee800000000"/>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="26f376a5-a52f-4a66-b846-216e8fcd0ef5" configVersion="b4e9efb6dc4bdf46a15afb8ccb32416200000000">
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="26f376a5-a52f-4a66-b846-216e8fcd0ef5" configVersion="9eb828ca1cdeeb4da6deef8d54a572b700000000">
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.ДатаУстановки" id="1602567e-361a-4bf4-a6ec-1a9a4c5771ef"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.БазоваяЕдиницаИзмерения" id="1c494ff2-8ed2-4463-89f7-fa3987c9dbe2"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.Коэффициент" id="b58196c5-4d74-42f1-ae77-80c684f07dec"/>
@@ -364,7 +364,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="2ce74bf58e6ed540a526a48c83566bd000000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="560a7eaefbe2204da226eb169d17d79300000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="fed865b5d85a2744acebb96163d7915300000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="2dd3542b904e814fbbd33aff5b43282100000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="836744fb5c1d414eada6e4aa4cd3d59400000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="0f0c0241cc10534e8d9bf3c63f067d5400000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="8b7c0bd7f7ec554f91be4e63228674ac00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="39c2a05a01f5eb4e9cc7c5b28dcc226f00000000"/>
@@ -405,6 +405,7 @@
 		<Metadata name="Constant.ЛогинСервисаПередачиPushУведомлений" id="99d51309-7c77-4d18-9fc3-d3b9a3265779" configVersion="054921ff07008d4498eb4626f705534f00000000"/>
 		<Metadata name="Constant.МаркерДоступаHPK" id="0d36129d-aa51-4326-a593-922149eea0b6" configVersion="5ec1b5320fddd5429f4cf6a674fbc85800000000"/>
 		<Metadata name="Constant.МаркерДоступаWNS" id="00b9841f-ebf0-45ab-a136-9bcc2fc35480" configVersion="2cfdea039f21eb44ac574422bdce4cec00000000"/>
+		<Metadata name="Constant.ОсновнаяВалютаВзаиморасчетов" id="bb37df90-1a9a-45bf-bba2-fea80bb04c3b" configVersion="406ac188535c9449835393765423280b00000000"/>
 		<Metadata name="Constant.ОтметкаНаФотоснимкеДата" id="93df0d8f-0dc7-4b72-afb5-532b482d2161" configVersion="48a1c78ce51a4749835e2003f6a54b6000000000"/>
 		<Metadata name="Constant.ОтметкаНаФотоснимкеТекст" id="cec4afb5-1e71-4c1c-8c67-59277bc16787" configVersion="1d9fc94eb3982b418306774a3d5a8cfc00000000"/>
 		<Metadata name="Constant.ПарольIMAP" id="9bb00ffc-a364-4475-9f06-859d4caae3bf" configVersion="668b25d449e7884eb82b9e3538321e5b00000000"/>
