@@ -223,6 +223,13 @@
 									<ContextMenu name="ТоварыНомерСтрокиКонтекстноеМеню" id="31"/>
 									<ExtendedTooltip name="ТоварыНомерСтрокиExtendedTooltip" id="68"/>
 								</LabelField>
+								<InputField name="ТоварыЕдиницаИзмерения" id="87">
+									<DataPath>Объект.Товары.ЕдиницаИзмерения</DataPath>
+									<EditMode>EnterOnInput</EditMode>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="ТоварыЕдиницаИзмеренияКонтекстноеМеню" id="88"/>
+									<ExtendedTooltip name="ТоварыЕдиницаИзмеренияРасширеннаяПодсказка" id="89"/>
+								</InputField>
 								<InputField name="ТоварыТовар" id="12" DisplayImportance="High">
 									<DataPath>Объект.Товары.Товар</DataPath>
 									<DefaultItem>true</DefaultItem>
