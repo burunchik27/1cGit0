@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Демонстрационное приложение</v8:content>
+					<v8:content>Демонстрационное приложение для Git</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment> </Comment>
@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>1.0.40.5</Version>
+			<Version>1.0.40.7</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
